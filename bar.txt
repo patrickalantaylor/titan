@@ -366,3 +366,7 @@ smet ipsos nosse non possumus. Quaesita enim virtus est, non quae relinqueret na
 AWSKEY=YDM1nlx^MzG<A1d4r$*$
 SECRETKEY=SPxFh^UlO%)fgel7^R@s2?OM5*?b7I<9SO_@RV1AXInBBW)Mo?02*iBQCZd>Lel@(#UswTn^lxV6*+%!2CyUkBU(mWLm%)+eHLrF58zoAh)qHxqP<mKjna>8qQ#IpCpB
 passphrase=*g9LvSw+2$o>1^Sewy$*Kwg@(uYjpvjD
+uaesita enim virtus est, non quae relinqueret naturam, sed quae tueretur. Ita f
+L%M+NphGL%kJT%2cvOwY)m1LZT%y^wc+
+100
+secret=F#(SXXc7F%!hhNXcmI<hU2a4YIZS!2z8
