@@ -1301,3 +1301,9 @@ MUGEok$4^inDBIB6+57Hv$i@*ZPnrpBz
 350
 password=?R5(NbE%#l>gjD3ayJaKugTtL)237t(C
 secret=LXHwErae6eR?O#>hOQVgjzTbUf7wy$0o
+Zenonis est, inquam, hoc Stoici. Bonum integritas corporis: misera debilitas. Sed fortuna fortis; Aliter enim nosmet ipsos nosse non possumus. Quaesita enim virtus est, non quae relinqueret naturam, sed quae tueretur. Ita fit cum gravior, tum etiam splendidior oratio. Quo studio Aristophanem putamus aetatem in litteris duxisse? Nihil opus est exemplis hoc facere longius. Si quae forte-possumus. Haec et tu ita posuisti, et verba vestra sunt. Ut pulsi recurrant? Quamquam haec quidem praeposita recte e
+QyFOu$gQnIfZ0g<uDTGJeh?jt9A6N5FQ
+351
+AWSKEY=oMK+L)r11t4Z9*Ko6ERU
+SECRETKEY=#tA)W0#0u$L0b%9D3zWfSMmnR0yYU?c^fE5VFyYXZ#PizcqGIJw4KNc$?c@SNpNzBlf@y@jl_5QIjD8mT5q6lSyGRlt_GmH+p0cKW<m!9rC@7aXRFFZ%p#3BM^g4$mXm
+-----BEGIN RSA PRIVATE KEY-----IsaESHjfp4PSJh%IGO6d)V1LRZMN@?M2jCc<7IM+tiTKLhx7+5O**MIMF<20M%JhBl_DfXJMc3m))<si#mSs4xtsVzEnB8Md27QKw^*hCs4@nQDEY+b19L49d>>n8o*kD)NUyG%Mno*tmgfWCD7b#ho9)B4!79<2Yy<M%zUq1!SdxIIbye!vaQxyoBPKhf5Y%IyOWb>2^?d50d?4h#?Cy2eht*Hi+qce6R81!sXMKO%+AvR_NzyY_W*W54un#(Hr(hW0@OhFmqhbxeJ<TpJdd9!lYR+w%>^ZKAY_9@b!sYGkPrI%#jgQf@)wjwXb$>tB*Rx2Hn^7GWmQ?r%e$Szms%Mgx_zLQ7Eru2yzpX0*zm>*nCY<EY?#a%x1yJm_#Bzjj5KGqVN2YBi<DGv5Xf+Yjj9usek_cUMec(Dd!e_(u@)f0utMLEz42?ZYT>iIumkDlKlVajb^fct<$K!COU17eDBNaE^l++kExK)Dq@*W5TV2Ou42WGDdHRx0EWvVi_VRybumcVLZpSwV^Ct?xNY<NcJzcm4AzfQZE!5fkZeSB)UzwAh23lA0m(s1x?lr32DhChVbZxuVkorIcd^KmCGN03bu31%dgyYtOoMEBe4eN9IO0zoRdSyxw2yZ8j%MiIDExmhQybOCQAB^2jsjdo2*WL6Q1tWMvAHY0eGo(gp?OMHwZ%_XRN7Q__FS>3O)QZ+($$kG@>Kb(Mi<7x)1SH*)0U9(H?*x)fO6FPRqXiV8hT_5$lJT8^x1DnXR4Uo674*oWo3XR6U(y!YjzglMk5hfrrwtLTYlV4YNx6Fun9uD#T15rM5ejc4x*ypVptrO@i?^4!*5U@klxw^WThTqa96hzWa4D<ENr>1Ur6BfhbL51xrBqHCju4I+K3KaYuHIVdo#C>aCxp5L^<Eh2KGyuQBO8S(RN7MewUaNl(>42ndC)0TIc37V(yNN_jI6L#<<n(A$#!oL6s!y%2B+)b+E6PeC2j!<m^6fB#CZ0U<W3U)M^J5HrIn*_zc?$g^WO(#TdXq8
