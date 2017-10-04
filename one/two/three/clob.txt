@@ -3317,3 +3317,9 @@ password=udT(WsbcTI_%TWtg7Z)mo!qwqVMRGV_3
 2>u#341WgEIWa%ixN8v2Tp%C!QBlccVJ
 890
 secret=P8B$<BE#uDPr$1uLbxt+?G90y40d$Mk3
+nonis est, inquam, hoc Stoici. Bonum integritas corporis: misera debilitas. Sed fortuna fortis; Aliter enim nosmet ipsos nosse non possumus. Quaesita enim virtus est, non quae relinqueret naturam, sed quae tueretur. Ita fit cum gravior, tum etiam splendidior oratio.
+NsP8<zcPs!lQ79Aa+>a18Iq9EaqJVXFc
+891
+AWSKEY=i*s%aEzO3gnhW<Cjlczl
+SECRETKEY=Ax#O8Nr5ctj8%YjMZ^>znDZr<N3D<NY<HxqHtKvaFZ!9S10?8mGbqLA7U(>$EgLS5_#?$O?1ssq<35J24LhNxL>Ey2vFYH1xa_^Lk$uQ03+UjNi%PyL%4!x@NRw^53Qw
+passphrase=bv<ynl%zBG7n9o>9k4LaWdRuPxVKxnUJ
